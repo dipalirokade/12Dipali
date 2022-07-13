@@ -33,7 +33,9 @@ public class HomePageTest {
 		HomePage homePage=new HomePage(driver);
 		homePage.selectSharezfromWatchListAndBuy("WIPRO", driver);
     	
-    	
-	
+   }
+	@Test
+	public void sample() {
+		System.out.println("hello");
 	}
 }
