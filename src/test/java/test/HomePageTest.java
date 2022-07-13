@@ -35,7 +35,7 @@ public class HomePageTest {
     	
    }
 	@Test
-	public void sample() {
-		System.out.println("hello");
+	public void demo() {
+		System.out.println("hii");
 	}
 }
